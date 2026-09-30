@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Star History">
 <title>Star History for pdone/lx-music-source</title>
-<desc>从 2026-09-29 到 2026-09-29，star 数从 9336 增长到 9336</desc>
+<desc>从 2026-09-29 到 2026-09-30，star 数从 9336 增长到 9372</desc>
 <style>
   .bg { fill: #ffffff; }
   .grid { stroke: #e5e7eb; stroke-width: 1; }
@@ -25,7 +25,7 @@
 </style>
 <rect class="bg" width="1200" height="320"/>
 <text class="title" x="64" y="22">pdone/lx-music-source · Star History</text>
-<text class="subtitle" x="1168" y="22" text-anchor="end">9336 ★</text>
+<text class="subtitle" x="1168" y="22" text-anchor="end">9372 ★</text>
 <line class="grid" x1="64" y1="272.00" x2="1168" y2="272.00"/>
 <line class="grid" x1="64" y1="213.00" x2="1168" y2="213.00"/>
 <line class="grid" x1="64" y1="154.00" x2="1168" y2="154.00"/>
@@ -37,8 +37,10 @@
 <text class="tlabel" x="54" y="99.00" text-anchor="end">7425</text>
 <text class="tlabel" x="54" y="40.00" text-anchor="end">9900</text>
 <line class="axis" x1="64" y1="272" x2="1168" y2="272"/>
-<path class="area" d="M 616.00 272.00 L 616.00 49.44 L 616.00 272.00 Z"/>
-<path class="line" d="M 616.00 49.44"/>
-<circle class="dot" cx="616.00" cy="49.44" r="2.5"/>
-<text class="tlabel" x="616.00" y="294" text-anchor="middle">2026-09-29</text>
+<path class="area" d="M 64.00 272.00 L 64.00 49.44 L 1168.00 48.59 L 1168.00 272.00 Z"/>
+<path class="line" d="M 64.00 49.44 L 1168.00 48.59"/>
+<circle class="dot" cx="64.00" cy="49.44" r="2.5"/>
+<circle class="dot" cx="1168.00" cy="48.59" r="2.5"/>
+<text class="tlabel" x="64.00" y="294" text-anchor="middle">2026-09-29</text>
+<text class="tlabel" x="1168.00" y="294" text-anchor="middle">2026-09-30</text>
 </svg>
